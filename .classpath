@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/l3miage/nizar.mandour.etu/Documents/tp_control_bdd/JAR/org.eclipse.persistence.jpars_2.7.8.v20201217-ecdf3c32c4.jar"/>
+	<classpathentry kind="lib" path="/home/l3miage/nizar.mandour.etu/Documents/tp_control_bdd/JAR/org.eclipse.persistence.jpars.source_2.7.8.v20201217-ecdf3c32c4.jar"/>
+	<classpathentry kind="lib" path="/home/l3miage/nizar.mandour.etu/Documents/tp_control_bdd/JAR/org.eclipse.persistence.jpa.modelgen_2.7.8.v20201217-ecdf3c32c4.jar"/>
+	<classpathentry kind="lib" path="/home/l3miage/nizar.mandour.etu/Documents/tp_control_bdd/JAR/org.eclipse.persistence.jpa.modelgen.source_2.7.8.v20201217-ecdf3c32c4.jar"/>
+	<classpathentry kind="lib" path="/home/l3miage/nizar.mandour.etu/Documents/tp_control_bdd/JAR/org.eclipse.persistence.extension_2.7.8.v20201217-ecdf3c32c4.jar"/>
+	<classpathentry kind="lib" path="/home/l3miage/nizar.mandour.etu/Documents/tp_control_bdd/JAR/org.eclipse.persistence.extension.source_2.7.8.v20201217-ecdf3c32c4.jar"/>
+	<classpathentry kind="lib" path="/home/l3miage/nizar.mandour.etu/Documents/tp_control_bdd/JAR/ojdbc8.jar"/>
+	<classpathentry kind="lib" path="/home/l3miage/nizar.mandour.etu/Documents/tp_control_bdd/JAR/jaxb-xjc.jar"/>
+	<classpathentry kind="lib" path="/home/l3miage/nizar.mandour.etu/Documents/tp_control_bdd/JAR/jaxb-impl.jar"/>
+	<classpathentry kind="lib" path="/home/l3miage/nizar.mandour.etu/Documents/tp_control_bdd/JAR/jakarta.xml.bind-api.jar"/>
+	<classpathentry kind="lib" path="/home/l3miage/nizar.mandour.etu/Documents/tp_control_bdd/JAR/jakarta.validation-api.jar"/>
+	<classpathentry kind="lib" path="/home/l3miage/nizar.mandour.etu/Documents/tp_control_bdd/JAR/jakarta.persistence_2.2.3.jar"/>
+	<classpathentry kind="lib" path="/home/l3miage/nizar.mandour.etu/Documents/tp_control_bdd/JAR/jakarta.persistence.source_2.2.3.jar"/>
+	<classpathentry kind="lib" path="/home/l3miage/nizar.mandour.etu/Documents/tp_control_bdd/JAR/jakarta.mail.jar"/>
+	<classpathentry kind="lib" path="/home/l3miage/nizar.mandour.etu/Documents/tp_control_bdd/JAR/jakarta.json.jar"/>
+	<classpathentry kind="lib" path="/home/l3miage/nizar.mandour.etu/Documents/tp_control_bdd/JAR/jakarta.activation.jar"/>
+	<classpathentry kind="lib" path="/home/l3miage/nizar.mandour.etu/Documents/tp_control_bdd/JAR/eclipselink.jar"/>
+	<classpathentry kind="lib" path="/home/l3miage/nizar.mandour.etu/Documents/tp_control_bdd/JAR/commonj.sdo_2.1.1.v201112051852.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
